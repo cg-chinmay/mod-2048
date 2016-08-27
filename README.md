@@ -1,8 +1,8 @@
 # 2048
 This is a tweaked version of 2048 with an undo button added.
-The official game can be found at (http://git.io/2048)
-The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
-
+It was developed as a part of the coursework <a href="https://www.udacity.com/course/make-your-own-2048--ud248">Make your 2048</a> offered
+at Udacity.
+Find the tweaked version at : http://cg-chinmay.github.io/mod-2048/
 
 ### Screenshot
 
